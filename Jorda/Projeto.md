@@ -49,6 +49,9 @@ Aqui eu irei citar dois modelos de projeto de desenvolvimento de software, o pri
 
 ![net_slcd12](https://user-images.githubusercontent.com/106175316/212957705-8784ce03-bafe-409c-99e4-5ef117561f9e.png)
 
+O segundo modelo é o modelo espiral, ele é interativo, mas os primeiros ciclos são de planejamento, depois de especificação de requisitos, depois de especificação/projeto de software, e nos ciclos finais são de desenvolvimento. Problemas em um clico remetem a repetir o anterior. As interações inicias do projeto são as mais baratas, permitindo que as tarefas de maior risco sejam levadas com o mínimo de custos. Este modelo é complexo de executar e requer experiência.
+
+![net_slcd13](https://user-images.githubusercontent.com/106175316/212958264-15708cdf-5334-4422-8dbd-7e0dbc4e6607.png)
 
 # Conclusão
 
