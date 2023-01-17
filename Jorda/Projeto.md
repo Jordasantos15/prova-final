@@ -45,11 +45,16 @@ Nesta etapa é onde será tomada as maior parte das decisões para que os requis
     
 # Caso de Uso
 
-Neste item deve ser apresentado exemplos de aplicação daquilo que está sendo abordado. Por exemplo, nos requisitos, deve ser inserido algo como um modelo de relatório que é usado para fazer o levantamento desses requisitos, da mesma forma como foi realizado no projeto final da disciplina.
+Aqui eu irei citar dois modelos de projeto de desenvolvimento de software, o primeiro deles é o modelo cascata que é o mais conhecido e mais simples/intuitivo. Todas atividades do projeto executas em série, ou seja, cada etapa só inicia após a conclusão da anterior.
+
+![net_slcd12](https://user-images.githubusercontent.com/106175316/212957705-8784ce03-bafe-409c-99e4-5ef117561f9e.png)
+
 
 # Conclusão
 
-Aqui deve ser desenvolvido um parágrafo de conclusão sobre o tema abordado.
+Seguindo tais etapas, um projeto de desenvolvimento de software certamente terá melhor qualidade, tanto durante o desenvolvimento quanto no produto final. Também será um trabalho mais saudável (mentalmente, fisicamente e financeiramente) para todas as partes: clientes, equipe comercial e a equipe de desenvolvedores.
+
+Um ponto importante a se ressaltar é que não necessariamente o processo listado nesse texto é sólida e linear. Dependendo do projeto, pode haver diferenças das etapas, adicionando ou removendo totalmente elas ou parte delas, além de poder mudar a ordem.
 
 # Referência
 https://www.ivoryit.com.br/2022/05/06/processo-de-desenvolvimento-de-software-veja-o-passo-a-passo/
