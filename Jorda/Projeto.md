@@ -63,6 +63,8 @@ Um ponto importante a se ressaltar é que não necessariamente o processo listad
 https://www.ivoryit.com.br/2022/05/06/processo-de-desenvolvimento-de-software-veja-o-passo-a-passo/
 file:///C:/Users/Jorda%20Floripe/Downloads/Aula%2007%20-%20Projeto.pdf
 https://docente.ifrn.edu.br/nickersonferreira/disciplinas/projeto-de-desenvolvimento-de-software
+https://felipelirarocha.wordpress.com/2012/04/15/diversos-modelos-de-desenvolvimento-de-software-resumo/
+https://www.macoratti.net/17/09/net_slcd1.htm
 
 
 Apresentar as referências utilizadas.
